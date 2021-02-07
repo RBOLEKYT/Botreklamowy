@@ -1,6 +1,6 @@
 module.exports = {
     // Token bota
-    token: "NzY1Mjk3NjgzOTI0NjQ3OTg4.X4SxAg.ffuXTboAMcuu8YthCr_XiDbiNvI",
+    token: "NzY1Mjk3NjgzOTI0NjQ3OTg4.X4SxAg.s-3mtZlwJwBYlSLYkSb8REfNfmI",
     // Kanał z logami (ID)
     log_channel: "",
     // Prefix
